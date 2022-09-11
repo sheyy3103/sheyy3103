@@ -2,7 +2,7 @@
 
 ## I'm Sheyy. Let me give you my best regards. Thank's you here!
 
-### here is all information about me:
+### Here is all information about me:
 
 <table>
     <tr>
