@@ -19,11 +19,11 @@
     </tr>
     <tr>
         <td>Facebook</td>
-        <td><a href="http://www.facebook.com/sheyy3103" target="_blank">Đạt</a></td>
+        <td><a href="http://www.facebook.com/sheyy3103" target="_blank" >Đạt</a></td>
     </tr>
     <tr>
         <td>My discord server</td>
-        <td><a href="https://discord.gg/cynReCzh5C" target="_blank">khong chua chap fan mu</a></td>
+        <td><a href="https://discord.gg/cynReCzh5C" target="_blank" >khong chua chap fan mu</a></td>
     </tr>
 </table>
 
