@@ -6,24 +6,24 @@
 
 <table>
     <tr>
-        <td>Full name</td>
-        <td>Ngo Tien Dat</td>
+        <td colspan="2">Full name</td>
+        <td colspan="2">Ngo Tien Dat</td>
     </tr>
     <tr>
-        <td>Gender</td>
-        <td>Male</td>
+        <td colspan="2">Gender</td>
+        <td colspan="2">Male</td>
     </tr>
     <tr>
-        <td>Nationality</td>
-        <td>Vietnamese</td>
+        <td colspan="2">Nationality</td>
+        <td colspan="2">Vietnamese</td>
     </tr>
     <tr>
-        <td>Facebook</td>
-        <td><a href="http://www.facebook.com/sheyy3103">Đạt</a></td>
+        <td colspan="2">Facebook</td>
+        <td colspan="2"><a href="http://www.facebook.com/sheyy3103">Đạt</a></td>
     </tr>
     <tr>
-        <td>My discord server</td>
-        <td><a href="https://discord.gg/cynReCzh5C">khong chua chap fan mu</a></td>
+        <td colspan="2">My discord server</td>
+        <td colspan="2"><a href="https://discord.gg/cynReCzh5C">khong chua chap fan mu</a></td>
     </tr>
 </table>
 
